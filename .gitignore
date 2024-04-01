@@ -1,0 +1,36 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Backup and temporary files #
+###############################
+*~
+*.bak
+*.swp
+._*
+
+# IDE files #
+#############
+.idea/
+.vscode/
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
+*.sql
